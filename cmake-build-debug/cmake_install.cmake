@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/laith.takriti24/project/Delta-Lodgement-Kashyyyk_Hotel
+# Install script for directory: C:/Users/ziggy.rawlings24/Github/Delta-Lodgement-Kashyyyk_Hotel
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/laith.takriti24/project/Delta-Lodgement-Kashyyyk_Hotel/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ziggy.rawlings24/Github/Delta-Lodgement-Kashyyyk_Hotel/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
